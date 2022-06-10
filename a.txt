@@ -1,0 +1,38 @@
+RECEIPT
+
+East Repair Inc.
+1912 Harvest Lane
+New York, NY 12210
+
+ 
+
+ 
+
+BILLTO SHIP TO RECEIPT #t us-001
+John Smith John Smith RECEIPT DATE 11102/2019
+2 Court Square 3787 Pineview Drive pos
+
+New York, NY 12210 Cambridge, MA 12210 os 2312/2019
+DUE DATE 26/02/2019
+
+ay DESCRIPTION UNIT PRICE AMOUNT
+
+1 Front and rear brake cables 100.00 100.00
+
+2 Newset of pedal arms 15.00 30.00
+
+3 Labor Shrs 5.00 15.00
+
+Subtotal 145.00
+
+Sales Tax 6.25% 9.06
+
+TOTAL $154.06
+
+Smith
+
+TERMS & CONDITIONS
+
+Payment is due within 15 days
+d hank you Plate mate checks payable: Est Reps
+
